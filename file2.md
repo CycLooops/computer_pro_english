@@ -4,11 +4,11 @@
 
 [this is a link to baidu][www.baidu.com]
 
-[this is a link to readme](.\README.md)
+[this is a link to readme](./README.md)
 
 a picture in the directory
 
-![1540986141821](E:\documents and files\个人文件\1033085175\FileRecv\MobileFile\1540986141821.jpeg)
+![1540986141821](1540986141821.jpeg)
 
 a picture from the web
 
